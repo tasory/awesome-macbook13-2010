@@ -3,6 +3,6 @@ Hello! This is awesome list for **MacBook** (Pro) 13" Mid-2010 A1342!\
 
 # Photo
 ## Polycarbonate version (a1342)
-![[https://github.com/user-attachments/assets/2309720f-b578-4fd0-9763-6659a40ce0c3]]
+<img src="https://cdsassets.apple.com/content/services/pub/image?productid=132896&size=240x240">
 ## Aluminum version (a1278)
-![[https://github.com/user-attachments/assets/b7fdc207-11bc-41aa-b8e4-23650ebce43d]]
+<img src="https://cdsassets.apple.com/content/services/pub/image?productid=132826&size=240x240">
