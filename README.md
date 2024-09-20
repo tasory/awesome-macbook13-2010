@@ -1,5 +1,5 @@
 <div align="center">
-<h1> awesome-macbook13-2010 <h1>
+<h1> awesome-macbook13-2010 </h1>
 Hello! This is awesome list for **MacBook** (Pro) 13" Mid-2010 A1342!
 
 <h1> Photo </h1>
