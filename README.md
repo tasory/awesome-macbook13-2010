@@ -16,4 +16,11 @@ Hello! This is awesome list for <b>MacBook</b> (Pro) 13" Mid-2010 A1342!
   <img src="https://cdsassets.apple.com/content/services/pub/image?productid=132826&size=240x240">
 </div>
 
+<h1> Characteristics </h1>
+<p> CPU: Core 2 Duo 2.4 GHz </p>
+<p> GPU: Nvidia GT320M </p>
+<p> Display: 1280x800 13" </p>
+<p> Last official supported MacOS: High Sierra 10.13.6 </p>
+<p> Last unofficial supported MacOS: Sequoia 15.0 </p>
+
 </div>
